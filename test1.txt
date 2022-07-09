@@ -1,4 +1,3 @@
-origin/master remote V3
 dev1 local V9
 V2
 
